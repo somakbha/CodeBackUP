@@ -1,0 +1,43 @@
+package org.somak.messenger.service;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+import org.somak.messenger.database.DatabaseClass;
+import org.somak.messenger.model.Message;
+
+public class MessageService {
+	
+	private Map<Long, Message>messages=DatabaseClass.getMessages();
+	
+	public List<Message> getAllMessages(){
+		
+		return new ArrayList<Message>(messages.values());
+	}
+	
+	public Message addMessage(Message msg)
+	{
+		long messageid=messages.size()+1;
+		msg.setId(messageid);
+		messages.put(messageid, msg);
+		return msg;
+	}
+	
+	//old implementation
+	
+	/*Message m1=new Message(1, "hello world", "somak");
+	Message m2=new Message(1, "hello jersey", "saptak");
+	Message m3=new Message(1, "hello bengaluru", "piyali");
+	
+	public List<Message> getAllMessages()
+	{
+		ArrayList <Message> list=new ArrayList <Message> ();
+		list.add(m1);
+		list.add(m2);
+		list.add(m3);
+		
+		return list;
+	}*/
+
+}

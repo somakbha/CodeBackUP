@@ -1,0 +1,53 @@
+package org.somak.messenger.service;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+import org.somak.messenger.database.DatabaseClass;
+import org.somak.messenger.model.Message;
+import org.somak.messenger.model.Profile;
+
+public class ProfileService {
+	
+	private Map<String, Profile> profiles = DatabaseClass.getMessages();
+
+	public ProfileService() {
+		profiles.put("Somak", new Profile(1L, "somakb", "somak", "bhattacharya"));
+		profiles.put("Saptak", new Profile(2L, "saptakb","saptak", "bhattacharya"));
+	}
+
+	public List<Message> getAllMessages() {
+
+		return new ArrayList<Message>(messages.values());
+	}
+
+	public Message getMessage(long msgId) {
+
+		return messages.get(msgId);
+	}
+
+	public Message addMessage(Message msg) {
+		long messageid = messages.size() + 1;
+		msg.setId(messageid);
+		messages.put(messageid, msg);
+		return msg;
+	}
+
+	public Message updateMessage(Message msg) {
+		if (msg.getId() <= 0) {
+			return null;
+
+		}
+		messages.put(msg.getId(), msg);
+		return msg;
+	}
+
+	public Message deleteMessage(long msgId) {
+
+		return messages.remove(msgId);
+
+	}
+
+
+}

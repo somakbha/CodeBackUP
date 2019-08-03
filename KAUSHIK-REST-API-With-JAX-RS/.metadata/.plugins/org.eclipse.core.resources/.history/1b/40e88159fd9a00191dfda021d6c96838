@@ -1,0 +1,5 @@
+package org.somak.messenger.exception;
+
+public class DataNotFoundException {
+
+}

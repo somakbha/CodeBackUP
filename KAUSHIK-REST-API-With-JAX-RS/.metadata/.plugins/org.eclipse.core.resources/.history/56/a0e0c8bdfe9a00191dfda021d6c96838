@@ -1,0 +1,14 @@
+package org.somak.messenger.exception;
+
+import javax.ws.rs.core.Response;
+import javax.ws.rs.ext.ExceptionMapper;
+
+public class DataNotFoundExceptionMapper implements ExceptionMapper<DataNotFoundException>{
+
+	@Override
+	public Response toResponse(DataNotFoundException ex) {
+		
+		return null;
+	}
+
+}

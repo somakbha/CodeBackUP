@@ -1,0 +1,5 @@
+package org.somak.messenger.model;
+
+public class ErrorMessage {
+
+}

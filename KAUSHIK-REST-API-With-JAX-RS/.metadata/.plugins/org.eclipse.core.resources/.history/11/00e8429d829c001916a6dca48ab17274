@@ -1,0 +1,5 @@
+package org.somak.filter;
+
+public class SecurityFilter {
+
+}

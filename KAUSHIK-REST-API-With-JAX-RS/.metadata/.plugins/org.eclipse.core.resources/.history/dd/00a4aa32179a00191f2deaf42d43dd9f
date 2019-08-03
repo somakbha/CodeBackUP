@@ -1,0 +1,5 @@
+package org.somak.messenger.database;
+
+public class DatabaseClass {
+
+}

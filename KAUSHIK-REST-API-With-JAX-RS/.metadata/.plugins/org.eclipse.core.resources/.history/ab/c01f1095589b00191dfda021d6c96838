@@ -1,0 +1,36 @@
+package org.somak.rest;
+
+import java.lang.annotation.Annotation;
+import java.lang.reflect.Type;
+
+import javax.ws.rs.ext.ParamConverter;
+import javax.ws.rs.ext.ParamConverterProvider;
+
+public class MyDateConverterProvider implements ParamConverterProvider{
+
+	@Override
+	public <T> ParamConverter<T> getConverter(Class<T> rawType, Type genericType, Annotation[] arg2) {
+		if (rawType.getName().equals(MyDate.class.getName()))
+		{
+			return new ParamConverter<T>() {
+
+				@Override
+				public T fromString(String arg0) {
+					// TODO Auto-generated method stub
+					return null;
+				}
+
+				@Override
+				public String toString(T arg0) {
+					// TODO Auto-generated method stub
+					return null;
+				}
+				
+			};
+			
+		}
+			
+		return null;
+	}
+
+}

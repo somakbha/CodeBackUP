@@ -1,0 +1,23 @@
+package org.somak.messenger.resources;
+
+import javax.ws.rs.CookieParam;
+import javax.ws.rs.GET;
+import javax.ws.rs.HeaderParam;
+import javax.ws.rs.MatrixParam;
+import javax.ws.rs.Path;
+
+
+@Path("/injectdemo")
+public class InjectDemoResource {
+	
+	@GET
+	@Path("annotations")
+	public String getParamListAnnotations(
+			@MatrixParam("param") String matrixParam,
+			@HeaderParam("authSessionId") String header,
+			@CookieParam("name") String cookie) {
+		return "Matrix Param: "+matrixParam+" Header Param: "+header+" name: "+cookie;
+		
+	}
+
+}

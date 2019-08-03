@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+/home/somak/somak/KAUSHIK-REST-API-With-JAX-RS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/426931991.index
+/messenger/src/main/java
+/home/somak/somak/KAUSHIK-REST-API-With-JAX-RS/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3681162933.index
+/messenger-old/src/main/java

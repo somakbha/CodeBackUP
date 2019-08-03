@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="J2EE_EXPORT_OVERWRITE"/>
+	<item value="false" key="J2EE_EXPORT_SOURCE"/>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="Apache Tomcat v9.0"/>
+	</list>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="/home/somak/somak/REST-API-WARS/advanced-jaxrs-08.war"/>
+		<item value="/home/somak/somak/REST-API-WARS/advanced-jaxrs-07.war"/>
+		<item value="/home/somak/somak/REST-API-WARS/advanced-jaxrs-06.war"/>
+		<item value="/home/somak/somak/REST-API-WARS/advanced-jaxrs-05.war"/>
+		<item value="/home/somak/somak/REST-API-WARS/advanced-jaxrs-04.war"/>
+	</list>
+</section>

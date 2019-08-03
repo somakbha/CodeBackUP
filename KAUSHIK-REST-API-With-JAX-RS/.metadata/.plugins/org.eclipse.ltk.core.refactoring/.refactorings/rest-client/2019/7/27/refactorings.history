@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RestClient.java&apos; to &apos;rest-client/src/org.somak.restclient&apos;&#x0A;- Original project: &apos;rest-client&apos;&#x0A;- Destination element: &apos;rest-client/src/org.somak.restclient&apos;&#x0A;- Original element: &apos;org.somak.restclient.RestClient.java&apos;" description="Copy compilation unit" destination="/src&lt;org.somak.restclient" element1="/src&lt;org.somak.restclient{RestClient.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1561991701311" units="1" version="1.0"/>
+</session>
