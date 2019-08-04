@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;di.demo.myapp.myApp&apos; to &apos;BeanScopeApp&apos;&#x0A;- Original project: &apos;spring-demo-Bean-Scope-Demo&apos;&#x0A;- Original element: &apos;di.demo.myapp.myApp&apos;&#x0A;- Renamed element: &apos;di.demo.myapp.BeanScopeApp&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;myApp&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;di.demo.myapp{myApp.java[myApp" matchStrategy="1" name="BeanScopeApp" qualified="false" references="true" similarDeclarations="false" stamp="1558284588001" textual="false" version="1.0"/>
+</session>

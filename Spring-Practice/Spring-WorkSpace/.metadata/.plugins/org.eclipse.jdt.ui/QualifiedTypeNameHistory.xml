@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="di.demo.fortune.FortuneService"/>
+<fullyQualifiedTypeName name="di.demo.coach.CricketCoach"/>
+<fullyQualifiedTypeName name="bean.demo.fortuneservice.FortuneService"/>
+<fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+</qualifiedTypeNameHistroy>

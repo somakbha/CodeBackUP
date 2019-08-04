@@ -1,0 +1,29 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xmlns:context="http://www.springframework.org/schema/context"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd
+    http://www.springframework.org/schema/context
+    http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<!-- load the propertis file --> 
+   <context:property-placeholder location="classpath:sport.properties"/>
+    
+ 	<bean id="myCoach"
+ 		class="di.demo.coach.CricketCoach">
+ 		
+ 		<!-- property injection using setter method, ref is for other beans -->
+ 		<property name="fortuneService" ref="myFortuneService"></property>
+ 		<!-- pass literal values using properties file-->
+ 		<property name="emailAddres" value="${email.prop}"/>
+ 		<property name="team" value="${team.prop}"/>
+ 	</bean>
+ 	
+ 	<bean id="myFortuneService"
+ 		class="di.demo.fortune.FortuneServiceImpl" scope="">	 		
+ 	</bean>
+
+    
+
+</beans>
+

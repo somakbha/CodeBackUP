@@ -1,0 +1,21 @@
+127.0.0.1 - - [23/Jun/2019:13:22:27 +0530] "GET / HTTP/1.1" 200 11204
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:03:24 +0530] "-" 400 2244
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:03:24 +0530] "-" 400 2244
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:03:24 +0530] "-" 400 2244
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:03:29 +0530] "GET / HTTP/1.1" 200 11204
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:03:31 +0530] "GET /manager/html HTTP/1.1" 401 2499
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:03:39 +0530] "GET /manager/html HTTP/1.1" 200 21875
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:04:01 +0530] "POST /manager/html/upload;jsessionid=92DD9B8F6CD18E74F97D7886DB6D43BE?org.apache.catalina.filters.CSRF_NONCE=602271C35A3017E37B274867AB306E75 HTTP/1.1" 200 22135
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:04:23 +0530] "GET / HTTP/1.1" 200 11204
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:04:43 +0530] "GET /messenger1/webapi/messages HTTP/1.1" 500 1081
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:13:17 +0530] "POST /manager/html/undeploy?path=/messenger1&org.apache.catalina.filters.CSRF_NONCE=AF1DB228C2191D83E47A6C30AC6B4FB8 HTTP/1.1" 200 20350
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:13:32 +0530] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=314CEE0182A9212209233692B0AC6EEB HTTP/1.1" 200 22135
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:13:51 +0530] "GET /messenger1/webapi/messages200 HTTP/1.1" 200 470
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:22:17 +0530] "POST /manager/html/undeploy?path=/messenger1&org.apache.catalina.filters.CSRF_NONCE=A580A530F7081BBA2BBD3A3E9507506A HTTP/1.1" 200 20350
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:24:52 +0530] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=62834F28AE5A54B1A1238E142B55F8C2 HTTP/1.1" 200 22135
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:25:06 +0530] "GET /messenger1/webapi/messages HTTP/1.1" 200 486
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:26:44 +0530] "POST /manager/html/undeploy?path=/messenger1&org.apache.catalina.filters.CSRF_NONCE=FF9437DAC9BA6E527A95CA00E2604DA4 HTTP/1.1" 200 20350
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:27:24 +0530] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=7849CBDA09BE8C507760480282E32E79 HTTP/1.1" 200 21388
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:27:28 +0530] "POST /manager/html/upload?org.apache.catalina.filters.CSRF_NONCE=7849CBDA09BE8C507760480282E32E79 HTTP/1.1" 200 8206
+0:0:0:0:0:0:0:1 - tomcat [23/Jun/2019:14:27:52 +0530] "POST /manager/html/start?path=/messenger1&org.apache.catalina.filters.CSRF_NONCE=385E0B9122BADC1A4107819CA66644E7 HTTP/1.1" 200 22192
+0:0:0:0:0:0:0:1 - - [23/Jun/2019:14:28:00 +0530] "GET /messenger1/webapi/messages HTTP/1.1" 200 470
