@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd" id="WebApp_ID" version="3.1">
+  <display-name>SimpleServletProject</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+  </welcome-file-list>
+  <servlet-mapping>
+    <servlet-name>XmlServlet</servlet-name>
+    <url-pattern>/XmlServletPath</url-pattern>
+  </servlet-mapping>
+  <servlet>
+    <servlet-name>XmlServlet</servlet-name>
+    <servlet-class>org.somak.javabrains.XmlServlet</servlet-class>
+    </servlet>
+
+<!--  how we are defining  init parameters for JSP-->
+	<servlet>
+		<servlet-name>InitJSP</servlet-name>
+		<servlet-class>/initpage.jsp</servlet-class>
+		<init-param>
+		<param-name>defaultUser</param-name>
+		<param-value>Default user name is Somak Bhattacharya</param-value>
+		</init-param>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>InitJSP</servlet-name>
+		<url-pattern>/initpage.jsp</url-pattern>
+	</servlet-mapping>
+  
+  
+</web-app>

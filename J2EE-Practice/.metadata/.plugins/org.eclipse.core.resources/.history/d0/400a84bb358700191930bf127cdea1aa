@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Student Registration Form</title>
+</head>
+<body>
+<pre>
+ID: <input type="text" name="id">;
+NAME:
+EMAIL:
+QUALIFICATION:
+</pre>
+</body>
+</html>

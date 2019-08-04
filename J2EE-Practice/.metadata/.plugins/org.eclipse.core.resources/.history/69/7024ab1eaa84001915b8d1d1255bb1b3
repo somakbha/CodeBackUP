@@ -1,0 +1,26 @@
+<web-app>
+	<welcome-file-list>
+
+		<welcome-file>form1.html</welcome-file>
+	</welcome-file-list>
+	<servlet>
+		<servlet-name>HW</servlet-name>
+		<servlet-class>controller.HelloWorldServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>CA</servlet-name>
+		<servlet-class>controller.CollorAppenderServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>CA</servlet-name>
+		<url-pattern>/hello</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>HW</servlet-name>
+		<url-pattern>/next</url-pattern>
+
+</servlet-mapping>
+</web-app>

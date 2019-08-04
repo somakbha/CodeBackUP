@@ -1,0 +1,9 @@
+INDEX VERSION 1.130
+/home/somak/somak/JSP-Servlet-JDBC-Chad/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3082874910.index
+/test/src
+/home/somak/somak/JSP-Servlet-JDBC-Chad/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4170143903.index
+/tagdemo/src
+/home/somak/somak/JSP-Servlet-JDBC-Chad/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/411493201.index
+/servletdemo/src
+/home/somak/somak/JSP-Servlet-JDBC-Chad/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/397597023.index
+/jspdemo/src

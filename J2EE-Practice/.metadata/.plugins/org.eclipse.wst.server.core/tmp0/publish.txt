@@ -1,0 +1,3 @@
+#Tomcat publish data
+#Wed Jun 05 11:21:56 IST 2019
+org.eclipse.jst.jee.server\:HelloWorld=/home/somak/somak/Spring-Practice/Tomcat-Server/apache-tomcat-9.0.20/wtpwebapps/HelloWorld

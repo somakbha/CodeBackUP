@@ -1,0 +1,11 @@
+package org.somak.lambda;
+
+public class TypeInferenceExample {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

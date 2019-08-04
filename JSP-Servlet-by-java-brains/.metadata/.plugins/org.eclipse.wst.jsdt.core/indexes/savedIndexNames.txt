@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+/home/somak/somak/JSP-Servlet-by-java-brains/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3972396961.index
+2710827487.index
+3565734697.index
+2497766893.index

@@ -1,0 +1,18 @@
+package org.somak.lambda;
+
+public class Greeter {
+	
+	public void perform(Greeting gt)
+	{
+		gt.perform();
+	}
+
+	public static void main(String[] args) {
+	
+		Greeter greeter=new Greeter();
+		Greeting gt=new HelloWorldGreeter();
+		greeter.perform(gt);
+
+	}
+
+}

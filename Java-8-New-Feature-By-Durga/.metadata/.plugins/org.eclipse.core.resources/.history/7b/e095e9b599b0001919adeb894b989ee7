@@ -1,0 +1,10 @@
+package org.somak.lambda.inter;
+
+import java.util.List;
+
+@FunctionalInterface
+public interface PrintListInterface {
+	
+	public void print(List l);
+
+}

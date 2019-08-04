@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sun Jun 16 12:39:22 IST 2019
+org.eclipse.jst.jee.server\:tagdemo=/home/somak/somak/Spring-Practice/Tomcat-Server/apache-tomcat-9.0.20/wtpwebapps/tagdemo
+org.eclipse.jst.jee.server\:jspdemo=/home/somak/somak/Spring-Practice/Tomcat-Server/apache-tomcat-9.0.20/wtpwebapps/jspdemo
+org.eclipse.jst.jee.server\:servletdemo=/home/somak/somak/Spring-Practice/Tomcat-Server/apache-tomcat-9.0.20/wtpwebapps/servletdemo

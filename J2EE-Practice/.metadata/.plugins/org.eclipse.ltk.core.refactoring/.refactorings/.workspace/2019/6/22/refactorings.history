@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AadharregistrationForm&apos; to &apos;AadharRegistrationForm&apos;" description="Rename resource &apos;AadharregistrationForm&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/AadharregistrationForm" name="AadharRegistrationForm" stamp="1559410190304" updateReferences="true"/>
+</session>

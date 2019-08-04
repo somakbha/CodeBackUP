@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Aadhar registration</title>
+</head>
+<body>
+	<h1>Aadhar Registration From2</h1>
+	<form action="./reg">
+		<pre>
+Contact: <input type="text" name="contact">
+Email: <input type="text" name="email">
+Address: <textarea rows="5" cols="15" name="address"></textarea>
+<input type="submit" name="Next>>">
+</pre>
+	</form>
+</body>
+</html>

@@ -1,0 +1,7 @@
+package org.somak.lambda;
+
+public interface Greeting {
+	
+	public void perform();
+
+}

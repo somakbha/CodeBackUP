@@ -1,0 +1,6 @@
+INDEX VERSION 1.130+/home/somak/somak/Java-8-New-Feature-By-Durga/.metadata/.plugins/org.eclipse.jdt.core
+709293407.index
+4075934602.index
+612083629.index
+2992873213.index
+1998316564.index

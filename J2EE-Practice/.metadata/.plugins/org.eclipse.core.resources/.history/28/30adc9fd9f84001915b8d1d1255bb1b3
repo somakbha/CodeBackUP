@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Aadhar registration</title>
+</head>
+<body>
+	<h1>Aadhar Registration From1</h1>
+	<form action="./reg">
+		<pre>
+NAME: <input type="text" name="name">
+EMAI: <input type="text" name="emal">
+ADDRESS: <input type="text"area name="mname">
+
+<input type="submit" name="submit">
+</pre>
+	</form>
+
+</body>
+</html>

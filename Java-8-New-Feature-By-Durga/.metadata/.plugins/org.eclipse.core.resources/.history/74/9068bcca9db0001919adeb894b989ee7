@@ -1,0 +1,12 @@
+package org.somak.lambda.inter;
+
+import java.util.List;
+
+import org.somak.lambda.pojo.Person;
+
+@FunctionalInterface
+public interface PrintListInterface {
+	
+	public void print(List<Person> l);
+
+}

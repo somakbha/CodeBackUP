@@ -1,0 +1,10 @@
+package org.somak.lambda.unit3;
+
+public class StreamsExample1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Aadhar registration</title>
+</head>
+<body>
+<h1>Aadhar Registration From1</h1>
+<pre>
+NAME: <input type="text" name="name">
+FNAME: <input type="text" name="fname">
+MNAME: <input type="text" name="mname">
+<input type="submit" name="Next>>">
+
+
+</pre>
+</body>
+</html>

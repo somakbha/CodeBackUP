@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DirectInclude_PageInclude&apos; to &apos;DirectiveInclude_PageInclude&apos;" description="Rename resource &apos;DirectInclude_PageInclude&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/DirectInclude_PageInclude" name="DirectiveInclude_PageInclude" stamp="1559703229495" updateReferences="true"/>
+</session>

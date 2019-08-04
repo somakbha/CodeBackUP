@@ -1,0 +1,18 @@
+package org.somak.javabrains.service;
+
+public class LoginService {
+	
+	
+	// In actual this is the class where we should create the JDBC connection for
+	// checking user credentials
+	public boolean authenticate(String userId, String password)
+	{
+		if (password ==null || password.trim() =="")
+		{
+			return false;
+		}
+		
+		return true;
+	}
+
+}

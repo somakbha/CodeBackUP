@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="./PassMoreParameter" method="post">
+<pre>
+Name: <input type="text" name="uname"></input>
+User ID<input type="text" name="uid"></input>
+Profession:
+<input type="radio" name="prof" value="deveoloper">developer</input>
+<input type="radio" name="prof" value="architect">architect</input>
+</pre>
+<input type="submit" name="submit"></input>
+
+</form>
+</body>
+</html>

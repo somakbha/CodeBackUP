@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Aadhar registration</title>
+</head>
+<body>
+	<h1>Aadhar Registration From3</h1>
+	<form action="./reg">
+		<pre>
+Qual: <input type="text" name="qual">
+Percentage: <input type="text" name="per">
+<input type="submit" name="Finish">
+</pre>
+	</form>
+</body>
+</html>

@@ -1,0 +1,5 @@
+package org.somak.javabrains.service;
+
+public class LoginService {
+
+}

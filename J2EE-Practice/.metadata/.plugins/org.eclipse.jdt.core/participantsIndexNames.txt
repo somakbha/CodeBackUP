@@ -1,0 +1,9 @@
+INDEX VERSION 1.130
+/home/somak/somak/J2EE-Practice/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2370043411.index
+/SendRedirect/src
+/home/somak/somak/J2EE-Practice/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1582477451.index
+/DirectiveInclude_PageInclude/src
+/home/somak/somak/J2EE-Practice/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1026653004.index
+/HelloJSP/src
+/home/somak/somak/J2EE-Practice/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/138696485.index
+/RegForm_DynamicJSP/src

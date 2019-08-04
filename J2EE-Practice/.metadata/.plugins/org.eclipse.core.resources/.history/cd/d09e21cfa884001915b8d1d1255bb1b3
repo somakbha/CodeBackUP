@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Servlet-to-Servlet-Communication</title>
+</head>
+<body>
+
+	<form action="./reg">
+		<pre>
+NAME: <input type="text" name="name">
+EMAI: <input type="text" name="email">
+ADDRESS: <textarea rows="5" cols="15" name="address"></textarea>
+
+<input type="submit" name="submit">
+</pre>
+	</form>
+
+</body>
+</html>

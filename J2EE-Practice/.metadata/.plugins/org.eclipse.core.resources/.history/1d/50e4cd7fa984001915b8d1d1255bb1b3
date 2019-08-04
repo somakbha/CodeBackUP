@@ -1,0 +1,26 @@
+<web-app>
+	<welcome-file-list>
+
+		<welcome-file>form1.html</welcome-file>
+	</welcome-file-list>
+	<servlet>
+		<servlet-name>RS</servlet-name>
+		<servlet-class>controller.RegistrationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>VS</servlet-name>
+		<servlet-class>controller.ValidationServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>VS</servlet-name>
+		<url-pattern>/reg</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>RS</servlet-name>
+		<url-pattern>/next</url-pattern>
+
+</servlet-mapping>
+</web-app>

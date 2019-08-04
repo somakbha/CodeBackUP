@@ -1,0 +1,13 @@
+INDEX VERSION 1.4+/home/somak/somak/J2EE-Practice/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3221844766.index
+1557323145.index
+2370043411.index
+1609959051.index
+3673483647.index
+2057768140.index
+1973131273.index
+3026051896.index
+3927879410.index
+2746693875.index
+2748786255.index
+1625664955.index

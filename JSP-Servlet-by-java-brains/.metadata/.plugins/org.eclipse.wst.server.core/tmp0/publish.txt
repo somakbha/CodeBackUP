@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Sat Jun 22 09:50:13 IST 2019
+org.eclipse.jst.jee.server\:LoginApp=/home/somak/somak/Spring-Practice/Tomcat-Server/apache-tomcat-9.0.20/wtpwebapps/LoginApp
+org.eclipse.jst.jee.server\:JSPProject=/home/somak/somak/Spring-Practice/Tomcat-Server/apache-tomcat-9.0.20/wtpwebapps/JSPProject
+org.eclipse.jst.jee.server\:SimpleServletProject=/home/somak/somak/Spring-Practice/Tomcat-Server/apache-tomcat-9.0.20/wtpwebapps/SimpleServletProject

@@ -1,0 +1,5 @@
+package org.somak.parallel.streams;
+
+public class ParallelStreamsExample {
+
+}

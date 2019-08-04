@@ -1,0 +1,9 @@
+package org.somak.lambda.inter;
+
+import java.util.List;
+
+public interface PrintListInterface {
+	
+	public void print(List l);
+
+}
