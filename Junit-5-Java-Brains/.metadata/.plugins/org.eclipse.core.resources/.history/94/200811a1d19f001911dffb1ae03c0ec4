@@ -1,0 +1,32 @@
+package somak.junit.learn;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class MathUtilsTest {
+
+	@Test
+	void testAdd() {
+		
+		MathUtils mathUtils=new MathUtils();
+		
+		//int expected=500;
+		int expected=300;
+		int actual=mathUtils.add(100, 200);
+		
+		//The last parameter in assertEquals() method is a descriptive string
+		assertEquals(expected, actual,"The add method should add two numbers");
+		//assertEquals(expected, actual);
+		//fail("Not yet implemented");
+		//System.out.println("This test ran");
+	}
+	
+	@Test
+	void testComputeCircle()
+	{
+		MathUtils mathUtils=new MathUtils();
+		assertEquals(3.14, mathUtils.testComputeCircle(10), "the method should return right area value");
+	}
+
+}

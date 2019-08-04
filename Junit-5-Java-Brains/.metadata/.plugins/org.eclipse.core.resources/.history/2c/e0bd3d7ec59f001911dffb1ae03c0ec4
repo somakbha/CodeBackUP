@@ -1,0 +1,14 @@
+package somak.junit.learn;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class MathUtilsTest {
+
+	@Test
+	void testAdd() {
+		fail("Not yet implemented");
+	}
+
+}

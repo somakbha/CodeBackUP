@@ -1,0 +1,59 @@
+package somak.junit.learn;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertThrows;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.DisplayName;
+import org.junit.jupiter.api.Nested;
+import org.junit.jupiter.api.Test;
+
+class MathUtilsTest3 {
+
+	MathUtils mathUtils;
+
+	@BeforeEach
+	void initialized() {
+		mathUtils = new MathUtils();
+	}
+
+	@Nested
+	class AddTest {
+
+	@Test
+	@DisplayName("test add method for two postive numbers")
+	void testAddPostiveNaumber() {
+		// The last parameter in assertEquals() method is a descriptive string
+		assertEquals(300, mathUtils.add(100, 200), "The add method should add two positive numbers");
+
+	}
+
+	@Test
+	@DisplayName("test add method for two negative numbers")
+	void testAddNegativeNaumber() {
+		// The last parameter in assertEquals() method is a descriptive string
+		assertEquals(-30, mathUtils.add(-10, -20), "The add method should add two negative numbers");
+
+	}
+
+	}
+
+	@Test
+	void testMultiply() {
+
+		int expected = 8;
+		int actual = mathUtils.multiply(4, 2);
+
+		// The last parameter in assertEquals() method is a descriptive string
+		assertEquals(expected, actual, "The multiply method should return product of two numbers");
+	}
+
+	@Test
+	void testDivide() {
+
+		// The second parameter is a lambda expression, to create Executable
+		assertThrows(ArithmeticException.class, () -> mathUtils.division(5, 0));
+
+	}
+
+}

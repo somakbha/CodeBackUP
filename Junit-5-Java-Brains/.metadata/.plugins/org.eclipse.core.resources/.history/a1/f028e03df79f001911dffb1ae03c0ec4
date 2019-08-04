@@ -1,0 +1,37 @@
+package somak.junit.learn;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import org.junit.jupiter.api.condition.EnabledOnOs;
+import org.junit.jupiter.api.condition.OS;
+
+import static org.junit.jupiter.api.Assertions.assertThrows;
+import static org.junit.jupiter.api.Assumptions.assumeTrue;
+
+import org.junit.jupiter.api.Test;
+
+class MathUtilsTest4 {
+
+	MathUtils mathUtils;
+
+	@Test
+	void testMultiply() {
+
+		boolean isServerUp = false;
+		assumeTrue(isServerUp);
+		int expected = 8;
+		int actual = mathUtils.multiply(4, 2);
+
+		// The last parameter in assertEquals() method is a descriptive string
+		assertEquals(expected, actual, "The multiply method should return product of two numbers");
+	}
+
+	@Test
+	@EnabledOnOs(OS.LINUX)
+	void testDivide() {
+
+		// The second parameter is a lambda expression, to create Executable
+		assertThrows(ArithmeticException.class, () -> mathUtils.division(6, 2));
+
+	}
+
+}

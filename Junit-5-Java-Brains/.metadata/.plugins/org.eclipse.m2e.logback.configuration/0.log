@@ -1,0 +1,209 @@
+2019-07-04 22:46:54,870 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-04 22:49:31,284 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://na.artifactory.swg-devops.com:443/artifactory/ip-fci-sifs-maven-virtual/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2019-07-04 22:51:14,528 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 22:51:15,917 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/main/java
+2019-07-04 22:51:15,919 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/main/resources
+2019-07-04 22:51:15,924 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/test/java
+2019-07-04 22:51:15,925 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/test/resources
+2019-07-04 22:51:18,290 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 22:51:18,306 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 22:51:18,310 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 22:51:18,312 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 22:57:18,617 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 22:57:21,757 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://na.artifactory.swg-devops.com:443/artifactory/ip-fci-sifs-maven-virtual/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0.pom
+2019-07-04 22:57:21,765 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:57:22,566 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://na.artifactory.swg-devops.com:443/artifactory/ip-fci-sifs-maven-virtual/org/junit/jupiter/junit-jupiter-api/5.4.0/junit-jupiter-api-5.4.0.pom
+2019-07-04 22:57:22,573 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:57:23,394 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://na.artifactory.swg-devops.com:443/artifactory/ip-fci-sifs-maven-virtual/org/junit/jupiter/junit-jupiter-engine/5.4.0/junit-jupiter-engine-5.4.0.jar
+2019-07-04 22:57:23,701 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://na.artifactory.swg-devops.com:443/artifactory/ip-fci-sifs-maven-virtual/org/junit/jupiter/junit-jupiter-api/5.4.0/junit-jupiter-api-5.4.0.jar
+2019-07-04 22:57:23,992 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 22:57:23,997 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 22:57:23,999 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 22:57:24,002 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 22:58:33,623 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:58:33,631 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:58:34,289 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 22:58:34,294 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:58:34,298 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:58:34,489 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 22:58:34,492 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 22:58:34,496 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 22:58:34,498 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 22:59:44,044 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-04 22:59:44,543 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 22:59:44,546 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:59:44,549 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:59:44,702 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/main/java
+2019-07-04 22:59:44,702 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/main/resources
+2019-07-04 22:59:44,703 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/test/java
+2019-07-04 22:59:44,704 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/test/resources
+2019-07-04 22:59:44,868 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-07-04 22:59:45,042 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:59:45,046 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 22:59:45,066 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 22:59:45,068 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 22:59:45,072 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 22:59:45,074 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:00:03,078 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:00:03,082 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:00:03,085 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:00:03,257 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:00:03,260 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:00:03,264 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:00:03,265 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:00:42,718 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:00:42,723 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:00:43,247 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:00:43,251 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:00:43,256 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:00:43,438 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:00:43,440 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:00:43,443 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:00:43,444 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:01:04,543 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-04 23:01:05,030 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:01:05,034 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:01:05,038 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:01:05,201 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/main/java
+2019-07-04 23:01:05,201 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/main/resources
+2019-07-04 23:01:05,202 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/test/java
+2019-07-04 23:01:05,202 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/test/resources
+2019-07-04 23:01:05,303 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-07-04 23:01:05,421 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:01:05,424 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:01:05,441 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:01:05,445 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:01:05,448 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:01:05,450 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:03:03,333 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/somak/somak/Junit-5-Java-Brains/junit-5-basics
+2019-07-04 23:03:03,333 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2019-07-04 23:03:06,485 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:03:06,489 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:03:06,492 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:03:06,494 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:03:28,011 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-04 23:03:28,501 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:03:28,505 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:03:28,509 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:03:28,744 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/main/java
+2019-07-04 23:03:28,744 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/main/resources
+2019-07-04 23:03:28,745 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/test/java
+2019-07-04 23:03:28,746 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/test/resources
+2019-07-04 23:03:28,843 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-07-04 23:03:28,972 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-engine:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:03:28,977 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:03:28,996 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:03:28,998 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:03:29,001 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:03:29,003 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:04:04,019 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:04:04,156 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:04:04,158 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:04:04,160 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:04:04,162 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:04:05,516 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:04:05,518 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:04:05,520 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:04:05,521 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:04:30,619 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:04:30,622 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:04:30,826 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:04:30,828 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:04:30,832 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:04:30,833 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:05:47,656 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:05:47,680 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:05:47,682 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:05:47,688 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:05:47,690 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:05:59,308 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-04 23:05:59,730 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:05:59,734 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:05:59,845 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/main/java
+2019-07-04 23:05:59,846 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/main/resources
+2019-07-04 23:05:59,846 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/test/java
+2019-07-04 23:05:59,847 [Worker-22] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/test/resources
+2019-07-04 23:05:59,930 [Worker-22] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-07-04 23:06:11,163 [main] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:06:43,289 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:06:43,291 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:06:43,915 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/main/java
+2019-07-04 23:06:43,916 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/main/resources
+2019-07-04 23:06:43,924 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/test/java
+2019-07-04 23:06:43,924 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/test/resources
+2019-07-04 23:06:43,997 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-04 23:06:44,480 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:06:44,499 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:06:44,941 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/main/java
+2019-07-04 23:06:44,941 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/main/resources
+2019-07-04 23:06:44,967 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/test/java
+2019-07-04 23:06:44,968 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/test/resources
+2019-07-04 23:06:45,110 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-07-04 23:06:54,870 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.junit.jupiter:junit-jupiter-api:jar:5.4.0 is missing, no dependency information available
+2019-07-04 23:06:54,908 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:06:54,910 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:06:54,912 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:06:54,914 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:28:37,517 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-04 23:28:37,946 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:28:37,948 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-04 23:28:37,951 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-04 23:28:37,953 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 10:13:12,963 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-07-06 12:06:30,642 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:06:30,651 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:06:30,662 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:06:30,666 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:18:13,586 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:18:13,589 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:18:13,629 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:18:13,635 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:24:48,891 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:24:48,897 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:24:48,901 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:24:48,912 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:25:58,665 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:25:58,684 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:25:58,707 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:25:58,711 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:34:36,610 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:34:36,612 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:34:36,623 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:34:36,628 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:35:47,022 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:35:47,028 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:35:47,037 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:35:47,044 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:41:37,456 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:41:37,463 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:41:37,473 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:41:37,476 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:42:06,063 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:42:06,079 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:42:06,094 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:42:06,106 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:42:33,077 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-07-06 12:42:34,430 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: io.javabrains:junit-5-basics:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit-5-basics/pom.xml.
+2019-07-06 12:42:35,126 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/main/java
+2019-07-06 12:42:35,127 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/main/resources
+2019-07-06 12:42:35,129 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit-5-basics/src/test/java
+2019-07-06 12:42:35,129 [Worker-42] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit-5-basics/src/test/resources
+2019-07-06 12:42:35,386 [Worker-42] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-07-06 12:42:43,085 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-07-06 12:42:47,350 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/somak/somak/Junit-5-Java-Brains/junit-5-basics
+2019-07-06 12:42:47,351 [Worker-43] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-07-06 12:46:50,474 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: junit:junit.test:0.0.1-SNAPSHOT @ /home/somak/somak/Junit-5-Java-Brains/junit.test/pom.xml.
+2019-07-06 12:46:51,039 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit.test/src/main/java
+2019-07-06 12:46:51,039 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit.test/src/main/resources
+2019-07-06 12:46:51,040 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /junit.test/src/test/java
+2019-07-06 12:46:51,040 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /junit.test/src/test/resources
+2019-07-06 12:47:44,951 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-07-06 12:47:48,981 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/somak/somak/Junit-5-Java-Brains/junit.test
+2019-07-06 12:47:48,982 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-07-06 12:49:58,964 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2019-07-06 12:50:32,803 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/somak/somak/Junit-5-Java-Brains/junit.test
+2019-07-06 12:50:32,803 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
+2019-07-06 12:51:23,545 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:51:23,547 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-07-06 12:51:23,551 [Worker-35] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-07-06 12:51:23,554 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

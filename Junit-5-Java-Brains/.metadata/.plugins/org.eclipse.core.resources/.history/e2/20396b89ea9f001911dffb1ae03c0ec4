@@ -1,0 +1,26 @@
+package somak.junit.learn;
+
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+class MathUtilsTest2 {
+
+	MathUtils mathUtils;
+
+	@BeforeEach
+	void initialized() {
+		mathUtils = new MathUtils();
+	}
+
+	@Test
+	void testMultiply() {
+		int expected = 8;
+		int actual = mathUtils.multiply(4, 2);
+
+		// The last parameter in assertEquals() method is a descriptive string
+		assertEquals(expected, actual, "The add method multiply add two numbers");
+	}
+
+}
